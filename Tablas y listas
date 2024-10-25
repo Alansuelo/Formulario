@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOLETA DE CALIFICACIONES</title>
+</head>
+<body>
+<h2> Boleta calificaciones segundo parcial </h2>
+<hr>
+<ul>
+    <li> Matematicas </li>
+    <li> Raices culturales </li>
+    <li> Comprension y exposicion </li>
+    <li> Quimica 2 </li>
+    <li> Tutoria </li>
+    <li> Educacion fisica </li>
+    <li> Robotica </li>
+    <li> Lectura </li>
+    <li> TAE 1 Programacion web </li>
+    <li> TAE 2 Dibujo </li>
+</ul>
+<hr>
+<table border="1">
+    <tr>
+        <th> Matemaicas </th>
+        <th> Raices Culturales </th>
+        <th> Comprension y exposicion </th>
+        <th> Quimica 2 </th>
+        <th> Tutoria </th>
+        <th> Educacion fisica </th>
+        <th> Robotica </th>
+        <th> Lectura </th>
+        <th> TAE 1 Programacion web </th>
+        <th> TAE 2 Dibujo </th>
+    </tr>
+    <tr>
+        <td>9.0</td>
+        <td>7.0</td>
+        <td>8.6</td>
+        <td>10</td>
+        <td>9.7</td>
+        <td>9.4</td>
+        <td>9.0</td>
+        <td>8.8</td>
+        <td>9.7</td>
+        <td>10</td>
+    </tr>
+</table>
+</body>
+</html>
